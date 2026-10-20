@@ -1,0 +1,18 @@
+{
+  "name": "governance",
+  "description": "Engineering standards and code governance enforcement for code reviews, commits, and standards audits, delegated to a single built-in reviewer subagent.",
+  "version": "2.2.0",
+  "author": {
+    "name": "Will Smith",
+    "url": "https://github.com/wrsmith108"
+  },
+  "homepage": "https://skillsmith.app",
+  "repository": "https://github.com/wrsmith108/governance-claude-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "governance",
+    "standards",
+    "code-review"
+  ]
+}
